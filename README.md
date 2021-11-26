@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaySable82
+- 👋 Hi, I’m Jay Sable
 - 👀 I’m interested in ... coding,video editing,videography
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
